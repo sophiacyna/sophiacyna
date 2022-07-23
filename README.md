@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sophia 😇👌🏼😊
+- 👀 I’m interested in making research workflow smooth and collaborative so we can all find the answers we need to make the world a better place.
+- 🌱 I’m currently learning Git and Github (I just set up my first repository)
+- 💞️ I’m looking to collaborate on research process optimization or anything that interests you that I can add value to. 🙂🤓
+- 📫 How to reach me: message me on Github or email me at sophiacyna@gmail.com (if I don't reply, just try again 😊😉 because that will help jog my memory so I appreciate it a lot). 😁
